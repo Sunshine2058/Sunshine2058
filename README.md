@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Sunshine2058
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on building web pages
-- 📫 How to reach me by my WhatsApp +21625902824
+👋 Hey there, I’m Sunshine2058
+🎯 Passionate about computer science and building meaningful digital experiences
+
+🧠 Currently learning JavaScript and React
+
+🌱 Exploring frontend and mobile app development (React Native next!)
+
+🤝 Open to collaborating on beginner-friendly web and mobile projects
+
+📫 Reach me: [LinkedIn](linkedin.com/in/sonia-kechich-9a59b8265) | Email: soniakechich@gmail.com
+
 
 <!---
 Sunshine2058/Sunshine2058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
