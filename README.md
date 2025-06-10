@@ -1,4 +1,4 @@
-👋 Hey there, I’m Sunshine2058
+👋 Hey there, I’m Sonia Kechich
 🎯 Passionate about computer science and building meaningful digital experiences
 
 🧠 Currently learning JavaScript and React
